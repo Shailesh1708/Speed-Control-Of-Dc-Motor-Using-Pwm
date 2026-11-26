@@ -64,9 +64,7 @@ analogWrite(MPin, Speed);
 
 <img width="1481" height="732" alt="circuit diagram" src="https://github.com/user-attachments/assets/9c226540-8b34-47da-8224-4432811c40a3" />
 
-## Schematics:
 
-<img width="1125" height="872" alt="schem" src="https://github.com/user-attachments/assets/c8b68b3e-6f6d-4e5b-8482-86d344bcd7c1" />
 
 
 ## Output:
